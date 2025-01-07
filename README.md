@@ -24,3 +24,5 @@ InshaAllah Remote Explorer sekmesinden de Githuh Codespaces değil Remote Reposi
 
 This branch is 1 commit ahead of 'a tıklayıp "Create pull request" deyip "Add a title" kısmına  örn: "4 Readme Changes" gibi not düşebilirsiniz, tabi merge ve confirm ile sonlandırmak kaydıyla requestleriniz yan branch'ınızın "Pull requests" sekmesinde "Closed" bölümünde listeleyebilirsiniz İnşAllah.
 
+[MEDIA=youtube]6ebE_XxmDWY[/MEDIA]
+
