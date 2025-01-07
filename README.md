@@ -25,7 +25,7 @@ InshaAllah Remote Explorer sekmesinden de Githuh Codespaces değil Remote Reposi
 This branch is 1 commit ahead of 'a tıklayıp "Create pull request" deyip "Add a title" kısmına  örn: "4 Readme Changes" gibi not düşebilirsiniz, tabi merge ve confirm ile sonlandırmak kaydıyla requestleriniz yan branch'ınızın "Pull requests" sekmesinde "Closed" bölümünde listeleyebilirsiniz İnşAllah.
 
 
-[link text](https://stackoverflow.com/questions/11804820/how-can-i-embed-a-youtube-video-on-github-wiki-pages "video-on-github")
+[click here to go "How to embed video-on-github" / click image to go "Github version control" video](https://stackoverflow.com/questions/11804820/how-can-i-embed-a-youtube-video-on-github-wiki-pages "video-on-github")
 
 [![Github version control](https://img.youtube.com/vi/6ebE_XxmDWY/0.jpg)](https://www.youtube.com/watch?v=6ebE_XxmDWY "6ebE_XxmDWY")
 
