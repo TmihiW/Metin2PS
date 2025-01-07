@@ -1,1 +1,1 @@
-# Metin2PS
+# Metin2PS (means) Private Server
