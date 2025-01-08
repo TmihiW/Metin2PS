@@ -27,6 +27,6 @@ This branch is 1 commit ahead of 'a tıklayıp "Create pull request" deyip "Add 
 
 [click here to go "How to embed video-on-github" / click image to go "Github version control" video](https://stackoverflow.com/questions/11804820/how-can-i-embed-a-youtube-video-on-github-wiki-pages "video-on-github")
 
-[![Github version control](https://img.youtube.com/vi/6ebE_XxmDWY/3.jpg)](https://www.youtube.com/watch?v=6ebE_XxmDWY "6ebE_XxmDWY")
+[(https://img.youtube.com/vi/6ebE_XxmDWY/3.jpg)](https://www.youtube.com/watch?v=6ebE_XxmDWY "Github version control")
 
 
