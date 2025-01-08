@@ -64,3 +64,23 @@ git push --set-upstream origin Start
 cd C:/Users/kadir/.vscode/MyRepos/Metin2PS
 git merge --abort
 rm ~/.vscode/MyRepos/Metin2PS/.git/.MERGE_MSG.swp
+
+cd C:/Users/kadir/.vscode/MyRepos/Metin2PSclone
+git clone https://github.com/TmihiW/Metin2PS.git
+git init
+
+cd C:/Users/kadir/.vscode/MyRepos/Metin2PSremote.git
+git init .
+git clone https://github.com/TmihiW/Metin2PS.git
+
+
+git branch -M master main
+git push origin main
+
+
+cd C:/Users/kadir/.vscode/MyRepos/Metin2PSrem
+(SSH  git@github.com:TmihiW/Metin2PS.git)
+git remote add origin git@github.com:TmihiW/Metin2PS.git
+git add .
+git branch -M master main
+$ git pull origin main
