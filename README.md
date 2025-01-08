@@ -32,26 +32,6 @@ cd C:\Users\kadir\.vscode\MyRepos
 H5 çalıştı
 cd C:/Users/kadir/.vscode/MyRepos
 
-(en başta 1kere) git clone https://github.com/TmihiW/Metin2PS.git
-cd Metin2PS
-git status
-
-cd Metin2PSlocal
-git pull https://github.com/TmihiW/Metin2PS.git Start --allow-unrelated-histories
-
-(Programs Dosyası Oluşturdum)
-git lfs install
-git lfs track Programs
-(Programs Klasörüne Bir Dosya Attım)
-git status
-
-git add -A
-git status
-git commit -m "Add files via gitBash"
-git remote add origin https://github.com/TmihiW/Metin2PS.git
-git push origin master
-
-git lfs track VirtualBox-6.1.12-139181-Win.exe
 
 git reset --hard HEAD
 git clean -f -x -d -n
@@ -61,26 +41,17 @@ git status
 git checkout Start
 git push --set-upstream origin Start
 
-cd C:/Users/kadir/.vscode/MyRepos/Metin2PS
 git merge --abort
 rm ~/.vscode/MyRepos/Metin2PS/.git/.MERGE_MSG.swp
-
-cd C:/Users/kadir/.vscode/MyRepos/Metin2PSclone
-git clone https://github.com/TmihiW/Metin2PS.git
-git init
-
-cd C:/Users/kadir/.vscode/MyRepos/Metin2PSremote.git
-git init .
-git clone https://github.com/TmihiW/Metin2PS.git
-
-
 git branch -M master main
-git push origin main
+git reset HEAD~ 
 
 
-cd C:/Users/kadir/.vscode/MyRepos/Metin2PSrem
-(SSH  git@github.com:TmihiW/Metin2PS.git)
-git remote add origin git@github.com:TmihiW/Metin2PS.git
+cd C:/Users/kadir/.vscode/MyRepos/Marty
+git clone https://github.com/TmihiW/Marty.git
+cd Marty
+git status
+git lfs install
 git add .
-git branch -M master main
-$ git pull origin main
+git commit -m "LFS"
+git push origin main
