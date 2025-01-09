@@ -83,3 +83,13 @@ Dump proto size of (Tmobtable) 255
 
 solution ( taken \protos\Pack Protos Script\ DumpProto.exe)  from your main branch
 
+
+
+
+database hatalarını görme
+
+cd /home/serverfiles/main/srv1/db
+gdb srv1-db
+core db_r41024.core
+bt
+bt full
