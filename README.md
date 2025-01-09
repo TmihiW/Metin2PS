@@ -72,3 +72,7 @@ ln -s /home/serverfiles/main
 cd /main
 
 
+cd /
+ln -s /home/serverfiles/main/srv1/share/locale/germany/quest
+cd /quest
+
