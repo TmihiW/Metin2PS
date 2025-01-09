@@ -67,3 +67,8 @@ cd /server
 
 ile putty de kısayol oluşturma
 
+cd /
+ln -s /home/serverfiles/main
+cd /main
+
+
