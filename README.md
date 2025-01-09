@@ -55,3 +55,14 @@ git lfs install
 git add .
 git commit -m "LFS"
 git push origin main
+
+
+github desktopdan bir projeyi clone'ladıktan sonra boş bir repo oluşturup proje linkini kopyalayıp github desktopda ayarlardan proje yolunu değiştirince üstüne bir de fetch edince yükleniyor reponuz
+
+
+cd /
+ln -s /home/source-server/Srcs/Server
+cd /server
+
+ile putty de kısayol oluşturma
+
