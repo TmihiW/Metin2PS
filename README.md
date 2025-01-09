@@ -76,3 +76,10 @@ cd /
 ln -s /home/serverfiles/main/srv1/share/locale/germany/quest
 cd /quest
 
+
+dakika 19:51 
+Dump proto size of (Tmobtable) 255
+
+
+solution ( taken \protos\Pack Protos Script\ DumpProto.exe)  from your main branch
+
