@@ -56,6 +56,7 @@ git add .
 git commit -m "LFS"
 git push origin main
 
+***
 
 github desktopdan bir projeyi clone'ladıktan sonra boş bir repo oluşturup proje linkini kopyalayıp github desktopda ayarlardan proje yolunu değiştirince üstüne bir de fetch edince yükleniyor reponuz
 
