@@ -93,3 +93,8 @@ gdb srv1-db
 core db_r41024.core
 bt
 bt full
+
+
+database durumuna bakma
+
+service mysql-server status
