@@ -98,3 +98,15 @@ bt full
 database durumuna bakma
 
 service mysql-server status
+ps 43432
+
+
+eski veri tabanı silme
+
+cd /var/db
+rm -rf mariadb
+
+klasör silme
+
+cd /home
+rm -rf serverfiles
