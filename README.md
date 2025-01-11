@@ -119,3 +119,14 @@ rm -rf serverfiles
 
 
 
+***
+
+
+https://www.exblog.jp/new/create/
+
+
+bir değişik blog sitesi
+
+
+https://tmihiw.exblog.jp/profile/
+
