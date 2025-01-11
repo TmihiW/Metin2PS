@@ -110,3 +110,9 @@ klasör silme
 
 cd /home
 rm -rf serverfiles
+
+
+[C++ Ifdef mimarisi](https://youtu.be/RU5JUHAiR18)
+
+
+
