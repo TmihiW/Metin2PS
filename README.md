@@ -112,7 +112,7 @@ cd /home
 rm -rf serverfiles
 
 
-[C++ Ifdef mimarisi](https://youtu.be/RU5JUHAiR18)
+[(https://img.youtube.com/vi/RU5JUHAiR18/0.jpg)](https://youtu.be/RU5JUHAiR18 "C++ Ifdef mimarisi")
 
 
 
